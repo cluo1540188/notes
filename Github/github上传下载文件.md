@@ -55,5 +55,5 @@ git add . //不但可以跟单一文件，还可以跟通配符，更可以目  
 git commit -m "first commit" //把文件提交到仓库　
 git remote add origin ==远程仓库地址== //关联远程仓库
 git push -u origin master //把本地库的所有内容推送到远程库上
-
+==仓库和本地仓库不一致时,使用git pull让其合平一致==
 ==注：cd进入某盘路径==
