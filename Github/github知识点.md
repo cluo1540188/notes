@@ -6,4 +6,3 @@
 #### B.Git报错解决：fatal: unable to access ‘https://github.com/…’: OpenSSL SSL_read: Connection was reset, errno 10054
 
 ##### ==git config --global http.sslVerify "false"==
-
